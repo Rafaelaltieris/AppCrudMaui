@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wiQPhQ7TonR8cUMnWpyOvPpyFd30OoDmHyAEOc1IgtIK6Tdr4P/flwjCyt44MUioUo5o/xAGjloMneLu8VHmnw==",
+  "dgSpecHash": "eFgUT1utD3Xftw85XAavGcOqpqYEXbwn7bPpEI9sSxetEELHgVeruIMVR1JoSYxznYOD9X0x3+MR4nixbJ9X+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Professor.SB-1491264\\Source\\Repos\\AppCrudMaui\\CrudMaui\\CrudMaui.csproj",
+  "projectFilePath": "C:\\Users\\Professor.SB-1491264\\Source\\Repos\\Rafaelaltieris\\AppCrudMaui\\CrudMaui\\CrudMaui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Professor.SB-1491264\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Professor.SB-1491264\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
