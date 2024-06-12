@@ -12,53 +12,53 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudMaui
-build_property.ProjectDir = C:\Users\Professor.SB-1491264\Documents\Aulas Tiago Maui\CrudMaui\CrudMaui\
+build_property.ProjectDir = C:\Users\Professor.SB-1491264\Source\Repos\AppCrudMaui\CrudMaui\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/App.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/AppShell.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/MainPage.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/Resources/Styles/Colors.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/Resources/Styles/Styles.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/Views/EditarProduto.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/Views/EditarProduto.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.Views.EditarProduto.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\EditarProduto.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\EditarProduto.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/Views/ListaProduto.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/Views/ListaProduto.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.Views.ListaProduto.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\ListaProduto.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\ListaProduto.xaml
 
-[C:/Users/Professor.SB-1491264/Documents/Aulas Tiago Maui/CrudMaui/CrudMaui/Views/NovoProduto.xaml]
+[C:/Users/Professor.SB-1491264/Source/Repos/AppCrudMaui/CrudMaui/Views/NovoProduto.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrudMaui.Views.NovoProduto.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\NovoProduto.xaml
